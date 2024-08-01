@@ -1,4 +1,4 @@
 // vite.config.js
 export default {
-  base: "/quiz-micode-clone/",
+  base: "/quiz-micode-clone-in-js/",
 };
